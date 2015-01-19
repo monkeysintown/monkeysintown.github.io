@@ -6,8 +6,8 @@
         <atom:link href="http://monkeysintown.github.io/feed.xml" rel="self" type="application/rss+xml"/>
         <description>Monkeys in Town News</description>
         <language>en-us</language>
-        <pubDate>Mon, 19 Jan 2015 00:14:14 +0000</pubDate>
-        <lastBuildDate>Mon, 19 Jan 2015 00:14:14 +0000</lastBuildDate>
+        <pubDate>Mon, 19 Jan 2015 00:20:12 +0000</pubDate>
+        <lastBuildDate>Mon, 19 Jan 2015 00:20:12 +0000</lastBuildDate>
 
         <item>
             <title>Third Post</title>
@@ -131,7 +131,7 @@ This is a note.
 &lt;div class=&quot;sectionbody&quot;&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;test.svg&quot; alt=&quot;test&quot;&gt;
+&lt;img src=&quot;/blog/2015/01/14/test.svg&quot; alt=&quot;test&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
