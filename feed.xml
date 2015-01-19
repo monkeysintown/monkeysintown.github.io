@@ -6,8 +6,8 @@
         <atom:link href="http://monkeysintown.github.io/feed.xml" rel="self" type="application/rss+xml"/>
         <description>Monkeys in Town News</description>
         <language>en-us</language>
-        <pubDate>Mon, 19 Jan 2015 00:20:12 +0000</pubDate>
-        <lastBuildDate>Mon, 19 Jan 2015 00:20:12 +0000</lastBuildDate>
+        <pubDate>Mon, 19 Jan 2015 00:24:07 +0000</pubDate>
+        <lastBuildDate>Mon, 19 Jan 2015 00:24:07 +0000</lastBuildDate>
 
         <item>
             <title>Third Post</title>
@@ -76,7 +76,7 @@ public class Person {
 &lt;div class=&quot;sect1&quot;&gt;
 &lt;h2 id=&quot;_gist&quot;&gt;Gist&lt;/h2&gt;
 &lt;div class=&quot;sectionbody&quot;&gt;
-&lt;script src=&quot;http://gist.github.com/mojavelinux/5333524.js&quot;&gt;
+&lt;script src=&quot;https://gist.github.com/mojavelinux/5333524.js&quot;&gt;
 &lt;/script&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Nam id nisl quam. Donec a lorem sit amet libero pretium vulputate vel ut purus. Suspendisse leo arcu,
